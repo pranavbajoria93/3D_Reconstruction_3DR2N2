@@ -1,0 +1,5 @@
+EasyDict
+Pillow
+pyyaml
+sklearn
+numpy==1.16.1

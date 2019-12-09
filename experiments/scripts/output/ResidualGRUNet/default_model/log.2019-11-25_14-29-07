@@ -1,0 +1,6 @@
++ echo Logging output to ./output/ResidualGRUNet/default_model/log.2019-11-25_14-29-07
+Logging output to ./output/ResidualGRUNet/default_model/log.2019-11-25_14-29-07
++ export THEANO_FLAGS=floatX=float32,device=cuda,gpuarray.preallocate=0.95
++ THEANO_FLAGS=floatX=float32,device=cuda,gpuarray.preallocate=0.95
++ python main.py --gpu cuda --batch-size 24 --iter 1 --out ./output/ResidualGRUNet/default_model --model ResidualGRUNet
+python: can't open file 'main.py': [Errno 2] No such file or directory
