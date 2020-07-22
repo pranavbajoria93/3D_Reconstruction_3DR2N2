@@ -2,11 +2,10 @@
 
 This repository is an adaptation of the work done in the paper [Choy et al., 3D-R2N2: A Unified Approach for Single and Multi-view 3D Object Reconstruction, ECCV 2016](http://arxiv.org/abs/1604.00449). Given one or multiple views of an object, the network generates voxelized ( a voxel is the 3D equivalent of a pixel) reconstruction of the object in 3D.
 
-[1] *3D-R2N2: A Unified Approach for Single and Multi-view 3D Object Reconstruction*
-
-Choy, Christopher B and Xu, Danfei and Gwak, JunYoung and Chen, Kevin and Savarese, Silvio,
-Proceedings of the European Conference on Computer Vision ({ECCV}), 2016 
-[arxiv](http://arxiv.org/abs/1604.00449)
+[1] *3D-R2N2: A Unified Approach for Single and Multi-view 3D Object Reconstruction*  
+Choy, Christopher B and Xu, Danfei and Gwak, JunYoung and Chen, Kevin and Savarese, Silvio,  
+Proceedings of the European Conference on Computer Vision ({ECCV}), 2016  
+[@arxiv](http://arxiv.org/abs/1604.00449)
 
 ## Overview
 
